@@ -1,4 +1,3 @@
-import './BookCreate.css';
 import { useState } from 'react';
 
 function BookCreate({ onCreate }) {
